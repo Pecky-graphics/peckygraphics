@@ -155,7 +155,7 @@ section{
     height: 90px;
     border-radius: 45%;
     position:absolute;
-    left: calc(0.1%);
+    left: calc(-10%);
     top:-7px;
 
 }
@@ -181,5 +181,5 @@ footer{
 
 }
 .link{
-    color:blueviolet;
+    color:white;
 }
