@@ -26,7 +26,6 @@ label.logo{
     line-height:80px;
     padding:0 100px;
     font-weight:bold;
-Right:20%;
 
 
     
@@ -64,7 +63,7 @@ a.active,a:hover{
     display: none;
 }
 
-@media(max-width:952px){
+@media(max-width:500px){
     label.logo{
         font-size: 30px;
         padding-left: 50px;
@@ -74,7 +73,7 @@ a.active,a:hover{
         font-size:16px;
     }
 }
-@media(max-width:858px){
+@media(max-width:500px){
     .checkbtn{
     display: block;
     }
