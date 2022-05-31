@@ -59,7 +59,7 @@ a.active,a:hover{
     display: none;
 
 }
-@media all and(max-width:500px){
+@media all and(max-width:981px){
     label.logo{
         font-size: 30px;
         padding-left: 50px;
@@ -69,7 +69,7 @@ a.active,a:hover{
         font-size:16px;
     }
 }
-@media all and(max-width:500px){
+@media all and(max-width:858px){
     .checkbtn{
     display: block;
     }
@@ -155,7 +155,7 @@ section{
     height: 90px;
     border-radius: 45%;
     position:absolute;
-    left: calc(-10%);
+    left: calc(-20%);
     top:-7px;
 
 }
